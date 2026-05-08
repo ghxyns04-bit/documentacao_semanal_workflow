@@ -9,5 +9,5 @@ Aula 3 [nesta aula demos introdução a o Assunto (Váriavel) e colocamos em pr�
        let idade = 17
        let ano_atual = 2026
        let calc_idade = ano_atual - ano_nascimento
-       Console.log(calc_idade)
-       
+       Console.log(calc_idade)]
+aula 4 [continuar]
